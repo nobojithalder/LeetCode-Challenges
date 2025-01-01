@@ -1,7 +1,7 @@
 # LeetCode-Challenges
 
-Welcome to **LeetCode-Challenges**, a repository dedicated to solving LeetCode problems with detailed explanations and well-documented code. 
-This project aims to improve problem-solving skills and provide insights into common algorithmic challenges, for myself and others.
+Welcome to **LeetCode-Challenges**, a repository dedicated to solving LeetCode problems with detailed explanations and well-documented code. The problems in this repository are inspired by the Neetcode 150 list. 
+This project aims to enhance problem-solving skills and provide insights into common algorithmic challenges, benefiting both myself and others.
 
 ---
 
@@ -9,14 +9,24 @@ This project aims to improve problem-solving skills and provide insights into co
 
 The repository is organized into folders based on problem topics for easy navigation:
 
-- **Arrays**
-- **Strings**
-- **Linked Lists**
-- **Dynamic Programming**
+- **Arrays & Hashing**
+- **Two Pointers**
+- **Stack**
+- **Binary Search**
+- **Sliding Window**
+- **Linked List**
 - **Trees**
-- **Graphs**
+- **Tries**
+- **Heap / Priority Queue**
+- **Intervals**
+- **Greedy**
+- **Advanced Graphs**
 - **Backtracking**
-- **Math**
+- **Graphs**
+- **1D Dynamic Programming**
+- **2D Dynamic Programming**
+- **Bit Manipulation**
+- **Math & Geometry**
 
 Each folder contains:
 1. A `README.md` file listing all problems under the topic.
@@ -37,15 +47,26 @@ Each problem solution includes:
 
 ## Progress Tracker
 
-| Topic                | Problems Solved | Total |
-|----------------------|-----------------|-------|
-| Arrays               | 0               | 50    |
-| Strings              | 0               | 50    |
-| Dynamic Programming  | 0               | 50    |
-| Trees                | 0               | 50    |
-| Graphs               | 0               | 50    |
-| Backtracking         | 0               | 50    |
-| Math                 | 0               | 50    |
+| Topic                       | Problems Solved | Total |
+|-----------------------------|-----------------|-------|
+| Arrays & Hashing            | 0               | TBD   |
+| Two Pointers                | 0               | TBD   |
+| Stack                       | 0               | TBD   |
+| Binary Search               | 0               | TBD   |
+| Sliding Window              | 0               | TBD   |
+| Linked List                 | 0               | TBD   |
+| Trees                       | 0               | TBD   |
+| Tries                       | 0               | TBD   |
+| Heap / Priority Queue       | 0               | TBD   |
+| Intervals                   | 0               | TBD   |
+| Greedy                      | 0               | TBD   |
+| Advanced Graphs             | 0               | TBD   |
+| Backtracking                | 0               | TBD   |
+| Graphs                      | 0               | TBD   |
+| 1D Dynamic Programming      | 0               | TBD   |
+| 2D Dynamic Programming      | 0               | TBD   |
+| Bit Manipulation            | 0               | TBD   |
+| Math & Geometry             | 0               | TBD   |
 
 ---
 
@@ -91,7 +112,7 @@ See the `LICENSE` file for details.
 
 ## Acknowledgements
 
-Inspired by the LeetCode community and the pursuit of continuous learning. 💡
+Inspired by the LeetCode community and the pursuit of continuous learning. Special thanks to the Neetcode platform for curating an excellent set of problems. 💡
 
 ---
 
