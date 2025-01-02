@@ -1,7 +1,6 @@
 # LeetCode-Challenges
 
-Welcome to **LeetCode-Challenges**, a repository dedicated to solving LeetCode problems with detailed explanations and well-documented code. The problems in this repository are inspired by the Neetcode 150 list. 
-This project aims to enhance problem-solving skills and provide insights into common algorithmic challenges, benefiting both myself and others.
+Welcome to **LeetCode-Challenges**, a repository where I aim to solve LeetCode problems with detailed explanations and well-documented code—or at least give it my best shot. Inspired by the Neetcode 150 list, this project is all about improving problem-solving skills and sharing insights into common algorithmic challenges, with the hope of benefiting both myself and others.
 
 ---
 
@@ -38,10 +37,10 @@ Each folder contains:
 
 Each problem solution includes:
 
-1. **Problem Statement:** A brief overview of the problem.
-2. **Approach:** Step-by-step explanation of the solution.
-3. **Complexity Analysis:** Time and space complexity.
-4. **Code:** Well-commented code in the programming language used.
+1. **Problem Statement:** 
+2. **Approach:** 
+3. **Complexity Analysis:** 
+4. **Code:** 
 
 ---
 
@@ -101,12 +100,6 @@ Each problem solution includes:
    git push origin feature-name
    ```
 5. Create a pull request from your branch to the `main` branch.
-
----
-
-## License
-
-See the `LICENSE` file for details.
 
 ---
 
