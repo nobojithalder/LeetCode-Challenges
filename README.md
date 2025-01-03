@@ -69,40 +69,6 @@ Each problem solution includes:
 
 ---
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nobojithalder/LeetCode-Challenges.git
-   ```
-
-2. Navigate to the relevant folder for the topic you're interested in.
-
-3. Explore the `README.md` files and solution files for problem insights and solutions.
-
-4. Feel free to contribute by opening issues or pull requests.
-
----
-
-## How to Contribute
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a pull request from your branch to the `main` branch.
-
----
-
 ## Acknowledgements
 
 Inspired by the LeetCode community and the pursuit of continuous learning. Special thanks to the Neetcode platform for curating an excellent set of problems. 💡
