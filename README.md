@@ -27,10 +27,6 @@ The repository is organized into folders based on problem topics for easy naviga
 - **Bit Manipulation**
 - **Math & Geometry**
 
-Each folder contains:
-1. A `README.md` file listing all problems under the topic.
-2. Solution files with detailed documentation and code.
-
 ---
 
 ## Problem Solution Format
